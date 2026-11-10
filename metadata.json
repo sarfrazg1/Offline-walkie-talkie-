@@ -1,0 +1,6 @@
+{
+  "name": "Offline Walkie Talkie",
+  "description": "Offline Push-to-Talk communication app using Wi-Fi Direct and Bluetooth Nearby Connections without internet, SIM card, or servers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

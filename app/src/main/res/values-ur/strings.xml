@@ -1,0 +1,74 @@
+<resources>
+    <string name="app_name">آف لائن واکی ٹاکی</string>
+    <string name="app_title">آف لائن واکی ٹاکی</string>
+    <string name="developer_name">راؤ محمد سرفراز</string>
+    <string name="developer_whatsapp">+923360074976</string>
+    <string name="developer_link">https://wa.me/923360074976</string>
+
+    <!-- Navigation -->
+    <string name="nav_ptt">ریڈیو</string>
+    <string name="nav_discovery">رڈار</string>
+    <string name="nav_group">گروپ</string>
+    <string name="nav_audio">آڈیو</string>
+    <string name="nav_settings">سیٹنگز</string>
+    <string name="nav_about">معلومات</string>
+
+    <!-- PTT & Radio -->
+    <string name="channel_idle">چینل خالی ہے • بات کرنے کے لیے تیار</string>
+    <string name="channel_transmitting">براہ راست آواز بھیجی جا رہی ہے</string>
+    <string name="channel_receiving">%1$s بول رہے ہیں</string>
+    <string name="channel_busy">چینل مصروف ہے • برائے مہربانی انتظار کریں</string>
+    <string name="ptt_instruction_hold">بولنے کے لیے دبا کر رکھیں</string>
+    <string name="ptt_instruction_release">سننے کے لیے چھوڑ دیں</string>
+    <string name="ptt_instruction_locked">چینل اسپیکر کے پاس مقفل ہے</string>
+    <string name="no_devices_connected">کوئی ڈیوائس منسلک نہیں۔ جوڑنے کے لیے رڈار کھولیں۔</string>
+    <string name="connected_devices_count">%1$d منسلک ڈیوائسز</string>
+
+    <!-- Permissions & Radios -->
+    <string name="permission_required_title">اجازتیں درکار ہیں</string>
+    <string name="permission_required_desc">واکی ٹاکی کو انٹرنیٹ کے بغیر کام کرنے کے لیے مائیکروفون اور قریبی ڈیوائسز کی اجازت درکار ہے۔</string>
+    <string name="grant_permissions">اجازت دیں</string>
+    <string name="enable_bluetooth_wifi">آف لائن رابطے کے لیے بلوٹوتھ اور وائی فائی آن کریں۔</string>
+
+    <!-- Discovery & Radar -->
+    <string name="radar_title">ڈیوائس ڈسکوری رڈار</string>
+    <string name="advertising_active">اپنی موجودگی نشر ہو رہی ہے</string>
+    <string name="discovering_active">قریبی واکی ٹاکیز تلاش کی جا رہی ہیں</string>
+    <string name="radar_empty">قریبی آلات تلاش کیے جا رہے ہیں… یقینی بنائیں کہ دوسرے فون پر بھی یہ ایپ کھلی ہو اور وائی فائی اور بلوٹوتھ آن ہوں۔</string>
+    <string name="connect">رابطہ کریں</string>
+    <string name="disconnect">منقطع کریں</string>
+    <string name="connecting">رابطہ ہو رہا ہے…</string>
+    <string name="connected">منسلک</string>
+
+    <!-- Auth Confirmation -->
+    <string name="connection_request_title">رابطے کی درخواست</string>
+    <string name="connection_request_desc">ڈیوائس \"%1$s\" رابطہ قائم کرنا چاہتی ہے۔ تصدیق کریں کہ دونوں فونز پر یہ کوڈ ایک جیسا ہے:</string>
+    <string name="accept">قبول کریں</string>
+    <string name="reject">رد کریں</string>
+
+    <!-- Group -->
+    <string name="group_title">فعال گروپ کمیونیکیشن</string>
+    <string name="group_broadcast_info">آواز ایک ہی وقت میں تمام منسلک آلات پر براہ راست نشر ہوتی ہے۔</string>
+    <string name="disconnect_all">سب منقطع کریں</string>
+
+    <!-- Audio Settings -->
+    <string name="audio_settings_title">آڈیو اور ریڈیو سیٹنگز</string>
+    <string name="sample_rate">آڈیو سیمپل ریٹ</string>
+    <string name="sample_rate_desc">8 کلو ہرٹز (طویل فاصلہ)، 16 کلو ہرٹز (متوازن آواز)، 44.1 کلو ہرٹز (ایچ ڈی آواز)</string>
+    <string name="echo_cancellation">ایکو کینسلیشن (AEC)</string>
+    <string name="noise_suppressor">شور کو کم کرنے کا نظام</string>
+    <string name="roger_beep">راجر بیپ (آواز کا اختتامی سگنل)</string>
+    <string name="mic_gain">مائیکروفون گین بوسٹ</string>
+
+    <!-- App Settings -->
+    <string name="app_settings_title">ایپلی کیشن سیٹنگز</string>
+    <string name="device_callsign">میرا نام / کال سائن</string>
+    <string name="app_language">زبان منتخب کریں</string>
+    <string name="keep_screen_on">ریڈیو کے دوران اسکرین آن رکھیں</string>
+    <string name="auto_reconnect">خودکار دوبارہ رابطہ</string>
+
+    <!-- About Screen -->
+    <string name="about_title">ایپ معلومات اور ڈویلپر رابطہ</string>
+    <string name="contact_on_whatsapp">واٹس ایپ پر رابطہ کریں</string>
+    <string name="test_guide_title">2 فونز پر حقیقی ٹیسٹنگ کا طریقہ کار</string>
+</resources>
